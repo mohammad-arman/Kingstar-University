@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "POLITICAL SCIENCE",
+      "description": "Political science is the scientific study of politics. It is a social science dealing with systems of governance and power, and the analysis of political activities, political thought, political behavior, and associated constitutions and laws.Political is the best subject.",
+      "price": 1500,
+      "courseduration": "2 Years",
+      "img": "https://i.ibb.co/phw0QXx/2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "LITERATURE",
+      "description": "Literature broadly is any collection of written work, but it is also used more narrowly for writings specifically considered to be an art form, especially prose fiction, drama, and poetry. In recent centuries, the definition has expanded to include oral literature, much of which has been transcribed.",
+      "price": 1000,
+      "courseduration": "3 Years",
+      "img": "https://i.ibb.co/s3tYhmX/3.jpg"
+    },
+    {
+      "id": 3,
+      "name": "ADVANCE MATHEMATICS",
+      "description": "Further Mathematics is the title given to a number of advanced secondary mathematics courses. The term Higher and Further Mathematics, and the term Advanced Level Mathematics, may also refer to any of several advanced mathematics courses at many institutions.",
+      "price": 200,
+      "courseduration": "4 Years",
+      "img": "https://i.ibb.co/DwyYj35/9.jpg"
+    },
+    {
+      "id": 4,
+      "name": "MICRO BIOLOGY",
+      "description": "Microbiology is the scientific study of microorganisms, those being unicellular, multicellular, or acellular. Microbiology encompasses numerous sub-disciplines including virology, bacteriology, protistology, mycology, immunology and parasitology.",
+      "price": 5000,
+      "courseduration": "3 Years",
+      "img": "https://i.ibb.co/rH9tvBs/10.jpg"
+    },
+    {
+      "id": 5,
+      "name": "COMPUTER SCIENCE",
+      "description": "Microbiology is the scientific study of microorganisms, those being unicellular, multicellular, or acellular. Microbiology encompasses numerous sub-disciplines including virology, bacteriology, protistology, mycology, immunology and parasitology.",
+      "price": 5000,
+      "courseduration": "3 Years",
+      "img": "https://i.ibb.co/n3ZmDqc/1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "GLOBAL ECONOMIC",
+      "description": "Microbiology is the scientific study of microorganisms, those being unicellular, multicellular, or acellular. Microbiology encompasses numerous sub-disciplines including virology, bacteriology, protistology, mycology, immunology and parasitology.",
+      "price": 5000,
+      "courseduration": "3 Years",
+      "img": "https://i.ibb.co/bdddBnN/11.jpg"
+    },
+    {
+      "id": 7,
+      "name": "PSYCHOLOGY",
+      "description": "Psychology is the science of mind and behavior. Psychology includes the study of conscious and unconscious phenomena, as well as feelings and thought. It is an academic discipline of immense scope, crossing the boundaries between the natural and social sciences",
+      "price": 6000,
+      "courseduration": "2 Years",
+      "img": "https://i.ibb.co/wwx5dw8/depositphotos-108939274-stock-photo-diversity-students-studying-together-in.jpg"
+    },
+    {
+      "id": 8,
+      "name": "SOCIOLOGY",
+      "description": "Sociology is a social science that focuses on society, human social behaviour, patterns of social relationships, social interaction, and aspects of culture associated with everyday life.",
+      "price": 3000,
+      "courseduration": "3 Years",
+      "img": "https://i.ibb.co/5TDk5NC/depositphotos-12658160-stock-photo-smiling-group-of-students-in.jpg"
+    },
+    {
+      "id": 9,
+      "name": "PHYSICS",
+      "description": "Physics is the natural science that studies matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force. Physics is one of the most fundamental scientific disciplines, and its main goal is to understand how the universe behaves",
+      "price": 5000,
+      "courseduration": "3 Years",
+      "img": "https://i.ibb.co/hMS43c0/Happy-African-American-college-student-communicating-with-female-mature-professor-during-a-class-in.jpg"
+    }
+  ]

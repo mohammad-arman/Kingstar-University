@@ -1,0 +1,19 @@
+.footer{
+    background-color: #262626;
+}
+.bottom-footer{
+    background-color: #000000;
+}
+.student-help li{
+    list-style: none;
+    margin-bottom: 5px;
+}
+.student-help li a{
+    text-decoration: none;
+    color: #ffffff;
+    transition: all .5s;
+}
+.student-help li a:hover{
+    color: #0d6efd;
+}
+

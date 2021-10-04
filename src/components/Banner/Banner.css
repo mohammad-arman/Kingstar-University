@@ -1,0 +1,35 @@
+.banner{
+    background-image: url('https://i.ibb.co/NydbzDP/main-home-img-6.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.banner-content{
+    padding-top: 180px;
+}
+.banner-content p{
+    max-width: 60%;
+}
+.banner-content h1{
+    font-size: 5em;
+}
+.banner-btn{
+  letter-spacing: 2px;
+}
+
+/* responsive */
+@media screen and (max-width: 780px) {
+    .banner{
+        height: 60vh;
+    }
+    .banner-content{
+        padding-top: 150px;
+    }
+    .banner-content h1{
+        font-size: 2em;
+    }
+    .banner-content p{
+        max-width: 100%;
+    }
+}

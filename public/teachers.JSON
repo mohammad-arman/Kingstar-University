@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Mr Joe Vet",
+      "proffesion": "Manager",
+      "degree": "M.Phill Management from Harvard!",
+      "thumb": "https://i.ibb.co/NTKgXmW/mange-3-350x350.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Miss Kitty Kat",
+      "proffesion": "Marketing Manager",
+      "degree": "M.Phill Marketing from Harvard!",
+      "thumb": "https://i.ibb.co/vJ8KfW0/teacher3-350x350.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Mr Jhon Moan",
+      "proffesion": "Accounts Manager",
+      "degree": "M.Phill Accounts from Harvard!",
+      "thumb": "https://i.ibb.co/vkDMwpD/mange-2-350x350.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Miss Tina Mina",
+      "proffesion": "Command on Subject",
+      "degree": "M.Phill Biology from Harvard!",
+      "thumb": "https://i.ibb.co/Zm2LBfy/staff-3-350x350.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Mr Jhon Doe",
+      "proffesion": "Maketing Manager",
+      "degree": "M.Phill Marketing from Harvard!",
+      "thumb": "https://i.ibb.co/sjn5C4v/teacher2-350x350.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Miss Maria",
+      "proffesion": "Manager",
+      "degree": "M.Phill Management from Harvard!",
+      "thumb": "https://i.ibb.co/ds9WmGH/teacher4-350x350.jpg"
+    }
+  ]
